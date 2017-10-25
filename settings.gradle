@@ -1,0 +1,1 @@
+include ':app', ':zxing-android-embedded', ':sample', ':sample-nosupport', ':xlistview'
